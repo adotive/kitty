@@ -1,6 +1,7 @@
 # Meu arquivo de configuração para o Kitty 🐈
 
 ![kitty](https://i.ytimg.com/vi/KUMkLhFeBrI/maxresdefault.jpg)
+Crédito: https://www.youtube.com/@TechHut
 
 # Instalação 💻
 Arch Linux (ou distros baseadas em Arch): `sudo pacman -S kitty`
