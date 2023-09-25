@@ -9,4 +9,7 @@ O kitty é um emulador de terminal altamente customizável que utiliza da rederi
 # Esquema de cores que uso 🍀
 Catppuccin Mocha (https://github.com/catppuccin/catppuccin)
 
+# Créditos
+https://github.com/kovidgoyal/kitty 😸
+
 
