@@ -4,7 +4,8 @@
 Crédito: https://www.youtube.com/@TechHut
 
 # Instalação 💻
-Arch Linux (ou distros baseadas em Arch): `sudo pacman -S kitty`
+- Arch Linux (ou distros baseadas em Arch): `sudo pacman -S kitty`
+- Fonte: (https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono)
 
 # O que é o kitty? 🤔
 O kitty é um emulador de terminal altamente customizável que utiliza da rederização GPU e tem suporte nativo a imagens e gráficos
