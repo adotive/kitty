@@ -1,19 +1,19 @@
-# Meu arquivo de configuração para o Kitty 🐈
+# My kitty terminal configuration 🐈
 
 ![kitty](https://i.ytimg.com/vi/KUMkLhFeBrI/maxresdefault.jpg)
-Crédito: https://www.youtube.com/@TechHut
+Credit to: https://www.youtube.com/@TechHut
 
-# Instalação 💻
-- Arch Linux (ou distros baseadas em Arch): `sudo pacman -S kitty`
-- Fonte: (https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono)
+# Install 💻
+- Arch Linux (or any other Arch based distros): `sudo pacman -S kitty`
+- Font: (https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono)
 
-# O que é o kitty? 🤔
-O kitty é um emulador de terminal altamente customizável que utiliza da rederização GPU e tem suporte nativo a imagens e gráficos
+# What is kitty? 🤔
+Kitty is a highly customizable terminal emulator that uses GPU rendering and has native support for images and graphics
 
-# Esquema de cores que uso 🍀
+# Colorscheme that I use 🍀
 Catppuccin Mocha (https://github.com/catppuccin/catppuccin)
 
-# Créditos
+# Credits
 https://github.com/kovidgoyal/kitty 😸
 
 
